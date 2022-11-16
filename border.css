@@ -1,0 +1,74 @@
+.None{
+    font-size: larger;
+    color: black;
+    border: none;
+    float: left;
+}
+.Dotted{
+    font-size: larger;
+    font-weight: 100;
+    border: dotted ;width: 30%;
+    color: blue;
+    float: left;
+
+
+}
+.Dashed{
+    font-size: larger;
+    font-weight: 100;
+    border: dashed; width: 30% ; color: red;
+    float: left;
+}
+.Solid{
+    font-size: larger;
+    font-weight: 100;
+    border: solid; width: 30%; color: aqua;
+    float: left;
+}
+.Double{
+    font-size: larger;
+    font-weight: 100;
+    border: double; width: 30%;
+    color: blueviolet;
+    float: left;
+}
+.Dot-Dash{
+    font-size: larger;
+    font-weight: 100;
+    border-style: dotted dashed; width: 30%;
+    color: lightblue;
+    float: left;
+    
+}
+.Groove{
+    font-size: larger;
+    font-weight: 100;
+    border: groove;
+width: 30%;
+color: lightpink;
+float: left;
+}
+.Ridge{
+    font-size: larger;
+    font-weight: 100;
+    border: ridge;
+    width: 30%;
+    color: darkcyan;
+    float: left;
+}
+.Inset{
+    font-size: larger;
+    font-weight: 100;
+    border: inset;
+    width: 30%;
+    color: darkgoldenrod;
+    float: left;
+}
+.Outset{
+    font-size: larger;
+    font-weight: 100;
+    border: outset;
+    width: 30%;
+    color: darkgreen;
+    float: left;
+}
