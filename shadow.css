@@ -1,0 +1,56 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Niconne&display=swap');
+
+p{
+    font-size: 40px;
+    color: tomato;
+    font-weight: bolder;
+    text-shadow:  black -10px 10px 10px; ;
+     text-align: center;
+}
+p1{
+    
+    font-size: 120px;
+    text-align: center; 
+    
+    
+    font-weight: 700;
+    line-height: 90vh;
+    color: #fcedd8;
+    
+    font-family: 'Niconne', cursive;
+    text-shadow: 5px 5px 0px #eb452b,
+    10px 10px 0px #efa032,
+    15px 15px 0px #46b59b,
+    20px 20px 0px #017e7f,
+    25px 25px 0px #052939,
+    30px 30px 0px #c11a2b,
+    35px 35px 0px #c11a2b,
+    40px 40px 0px #c11a2b,
+    45px 45px 0px #c11a2b;
+
+
+}
+p2{
+    text-shadow: 2px 2px #ff0000;
+    font-size: 60px;
+    text-align: center;
+}
+p3{
+    text-shadow: 2px 2px 8px #ff0000;
+    font-size: 60px;
+    text-align: center;
+}
+p4{
+    text-shadow: 2px 2px 4px #000000;
+    color: white;
+    font-size: 60px;
+}
+p5{
+     text-shadow: chocolate;
+    font-size: 60px;
+    color: aqua;
+    text-align: center;
+    transform: rotateX('180deg' translatey(15px));
+ 
+}

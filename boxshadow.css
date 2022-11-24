@@ -1,0 +1,32 @@
+.box1{
+    width: 50%;
+    height: 30vh;
+    background-color: aqua;
+    border: solid black;
+    border-radius: 50px;
+    box-shadow: 10px 10px red;
+}
+.box2{
+    width: 50%;
+    height: 30vh;
+    background-color:lightblue;
+    border: solid black;
+    border-radius: 50px;
+    box-shadow: 10px 10px 5px red;
+}
+.box3{
+    width: 50%;
+    height: 30vh;
+    background-color:lightgreen;
+    border: solid black;
+    border-radius: 50px;
+    box-shadow: 10px 10px 5px 5px red;
+}
+.box4{
+    width: 50%;
+    height: 30vh;
+    background-color:lightgray;
+    border: solid black;
+    border-radius: 50px;
+    box-shadow: 10px 10px black;
+}
