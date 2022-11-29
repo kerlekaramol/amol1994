@@ -1,0 +1,61 @@
+.main{
+    height: 750px;
+    width: 100%;
+    border: 2px solid black;
+    
+}
+.header{
+    height: 150px;
+    width:100% ;
+
+}
+.header .logo{
+    width: 20%;
+    height: 150px;
+    background-color: darkblue;
+    float: left;
+}
+.social{
+    height: 75px;
+    width: 80%;
+    background-color: skyblue;
+    float: left;
+}
+.menu{
+    height: 75px;
+    width: 80%;
+    background-color: yellow;
+    float: right;
+}
+.container{
+    height: 500px;
+    width: 100%;
+    background-color: aqua;
+
+}
+ .container .aside{
+    height: 500px;
+    width: 35%;
+    background-color: lightgray;
+    float: left;
+}
+.section{
+    height: 500px;
+    width: 30%;
+    background-color: lightslategray;
+    float: left;
+
+
+}
+.aside2{
+    height: 500px;
+    width: 35%;
+    background-color: lightcyan;
+    float: left;
+}
+.footer{
+    height: 100px;
+    width: 100%;
+    background-color: yellow;
+    float: left;
+}
