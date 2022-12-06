@@ -1,0 +1,50 @@
+.container{
+    background:lightblue;
+    padding:20px;
+    flex-wrap:wrap;
+    display:flex;
+    
+    }
+    .column1 {
+    background:lightcoral;
+    padding:20px;
+    margin:5px;
+    text-align:center;
+    }
+    .column1{
+    flex-basis:450px;
+    flex-shrink: 0;
+                        width: 200px;
+    }
+    .column2 {
+        background:lightcoral;
+        padding:20px;
+        margin:5px;
+        text-align:center;
+        flex-shrink: 1;
+        width: 100px;
+        }
+        .column3 {
+            background:lightcoral;
+            padding:20px;
+            margin:5px;
+            text-align:center;
+            flex-shrink: 2;
+            }
+            .column4 {
+                background:lightcoral;
+                padding:20px;
+                margin:5px;
+                text-align:center;
+                flex-shrink: 3;
+                }
+                .column5 {
+                    background:lightcoral;
+                    padding:20px;
+                    margin:5px;
+                    text-align:center;
+                    }
+                    h1{
+                        text-align: center;
+                        
+                    }
