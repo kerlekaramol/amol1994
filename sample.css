@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    
+}
+header{
+    background:#fefbe9;
+display:flex;
+justify-content: space-between;
+padding:15px 0;
+align-items:center; 
+}
+header ul{
+    list-style:none;
+    display:flex;
+    margin:0;
+    padding:0;
+    }
+    header a{
+        color:brown;
+        }
+ #logo{
+  margin:0 0;
+  font-size: 30px;
+  }  
+  a{
+    text-decoration:none;
+    }  
+ #menu li{
+  padding:10px;
+  }        
