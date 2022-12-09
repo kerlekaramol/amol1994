@@ -1,0 +1,48 @@
+.container{
+    background:lightgoldenrodyellow;
+    margin:50px;
+    padding:0px;
+    border:5px solid lightslategray;
+    display:flex;
+    flex-direction:column;
+    }
+    .items{
+        color:white;
+        font-size:40px;
+        text-align:center;
+        padding:0;
+        height:200px;
+        }
+        .item1{
+            background:lightblue;
+            }
+            
+            .item2{
+            background:lightslategray;
+            display:flex;
+            }
+            .item2 > .subitem{
+            background:lightpink;
+            color:white;
+            flex-grow:1;
+            margin:5px;
+            }
+            
+            
+            .item3{
+            background:lightslategray;
+            display:flex;
+            }
+            
+            .item3 > .subitems{
+            background:lightyellow;
+            color:tomato;
+            flex-grow:1;
+            margin:5px;
+            }
+            .item4{
+            background:lightsteelblue;
+            }        
+            h1{
+                text-align: center;
+            }
