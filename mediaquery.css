@@ -1,0 +1,9 @@
+body{
+    background-color:lightblue  ;
+    width:800px;
+    }
+    p{
+    font-size:30px;
+    }
+    @media screen and (min-width:500px){body{background-color:lightcoral  ;}}
+    @media screen and (min-width:650px){body{background-color:lightgoldenrodyellow  ;}}
