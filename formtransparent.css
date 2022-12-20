@@ -8,7 +8,7 @@ body{
     font-family:'Times New Roman', Times, serif;
     height:100vh;
     width:100%;
-    background-image: url(/nature.jpg);
+    background-image: url(/autumn-colorful-foliage-natural-landscape_649448-4995.jpg);
     background-size:cover;
     background-repeat:no-repet;
     background-position:center center;
@@ -75,6 +75,6 @@ a{
         right:0;
         bottom:0;
         box-shadow:inset 0 0 2000px lightgray;
-        filter:blur(5px);
+        filter:blur(2px);
         }
         
